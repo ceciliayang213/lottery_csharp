@@ -1,0 +1,52 @@
+c:\users\user\documents\visual studio 2015\Projects\newLottery\bin\Debug\newLottery.exe.config
+c:\users\user\documents\visual studio 2015\Projects\newLottery\bin\Debug\newLottery.exe
+c:\users\user\documents\visual studio 2015\Projects\newLottery\bin\Debug\newLottery.pdb
+c:\users\user\documents\visual studio 2015\Projects\newLottery\obj\Debug\newLottery.Form1.resources
+c:\users\user\documents\visual studio 2015\Projects\newLottery\obj\Debug\newLottery.Properties.Resources.resources
+c:\users\user\documents\visual studio 2015\Projects\newLottery\obj\Debug\newLottery.csproj.GenerateResource.Cache
+c:\users\user\documents\visual studio 2015\Projects\newLottery\obj\Debug\newLottery.exe
+c:\users\user\documents\visual studio 2015\Projects\newLottery\obj\Debug\newLottery.pdb
+C:\Users\USER\Desktop\lotteryDB\newLottery\bin\Debug\newLottery.exe.config
+C:\Users\USER\Desktop\lotteryDB\newLottery\obj\Debug\newLottery.exe
+C:\Users\USER\Desktop\lotteryDB\newLottery\obj\Debug\newLottery.pdb
+C:\Users\USER\Desktop\lotteryDB\newLottery\bin\Debug\lottery.mdf
+C:\Users\USER\Desktop\lotteryDB\newLottery\bin\Debug\lottery_log.ldf
+C:\Users\USER\Desktop\lotteryDB\newLottery\bin\Debug\newLottery.exe
+C:\Users\USER\Desktop\lotteryDB\newLottery\bin\Debug\newLottery.pdb
+C:\Users\USER\Desktop\lotteryDB\newLottery\obj\Debug\newLottery.csprojResolveAssemblyReference.cache
+C:\Users\USER\Desktop\lotteryDB\newLottery\obj\Debug\newLottery.Form1.resources
+C:\Users\USER\Desktop\lotteryDB\newLottery\obj\Debug\newLottery.Properties.Resources.resources
+C:\Users\USER\Desktop\lotteryDB\newLottery\obj\Debug\newLottery.csproj.GenerateResource.Cache
+C:\Users\USER\Desktop\newLotteryDB\newLottery\bin\Debug\newLottery.exe.config
+C:\Users\USER\Desktop\newLotteryDB\newLottery\obj\Debug\newLottery.exe
+C:\Users\USER\Desktop\newLotteryDB\newLottery\obj\Debug\newLottery.pdb
+C:\Users\USER\Desktop\newLotteryDB\newLottery\bin\Debug\lottery.mdf
+C:\Users\USER\Desktop\newLotteryDB\newLottery\bin\Debug\lottery_log.ldf
+C:\Users\USER\Desktop\newLotteryDB\newLottery\bin\Debug\newLottery.exe
+C:\Users\USER\Desktop\newLotteryDB\newLottery\bin\Debug\newLottery.pdb
+C:\Users\USER\Desktop\newLotteryDB\newLottery\obj\Debug\newLottery.csprojResolveAssemblyReference.cache
+C:\Users\USER\Desktop\newLotteryDB\newLottery\obj\Debug\newLottery.Form1.resources
+C:\Users\USER\Desktop\newLotteryDB\newLottery\obj\Debug\newLottery.Properties.Resources.resources
+C:\Users\USER\Desktop\newLotteryDB\newLottery\obj\Debug\newLottery.csproj.GenerateResource.Cache
+C:\Users\USER\Desktop\HW7\newLottery\bin\Debug\newLottery.exe.config
+C:\Users\USER\Desktop\HW7\newLottery\obj\Debug\newLottery.exe
+C:\Users\USER\Desktop\HW7\newLottery\obj\Debug\newLottery.pdb
+C:\Users\USER\Desktop\HW7\newLottery\bin\Debug\lottery.mdf
+C:\Users\USER\Desktop\HW7\newLottery\bin\Debug\lottery_log.ldf
+C:\Users\USER\Desktop\HW7\newLottery\bin\Debug\newLottery.exe
+C:\Users\USER\Desktop\HW7\newLottery\bin\Debug\newLottery.pdb
+C:\Users\USER\Desktop\HW7\newLottery\obj\Debug\newLottery.csprojResolveAssemblyReference.cache
+C:\Users\USER\Desktop\HW7\newLottery\obj\Debug\newLottery.Form1.resources
+C:\Users\USER\Desktop\HW7\newLottery\obj\Debug\newLottery.Properties.Resources.resources
+C:\Users\USER\Desktop\HW7\newLottery\obj\Debug\newLottery.csproj.GenerateResource.Cache
+C:\Users\USER\Desktop\iii\HW\C#\HW7\newLottery\bin\Debug\newLottery.exe.config
+C:\Users\USER\Desktop\iii\HW\C#\HW7\newLottery\obj\Debug\newLottery.exe
+C:\Users\USER\Desktop\iii\HW\C#\HW7\newLottery\obj\Debug\newLottery.pdb
+C:\Users\USER\Desktop\iii\HW\C#\HW7\newLottery\bin\Debug\lottery.mdf
+C:\Users\USER\Desktop\iii\HW\C#\HW7\newLottery\bin\Debug\lottery_log.ldf
+C:\Users\USER\Desktop\iii\HW\C#\HW7\newLottery\bin\Debug\newLottery.exe
+C:\Users\USER\Desktop\iii\HW\C#\HW7\newLottery\bin\Debug\newLottery.pdb
+C:\Users\USER\Desktop\iii\HW\C#\HW7\newLottery\obj\Debug\newLottery.csprojResolveAssemblyReference.cache
+C:\Users\USER\Desktop\iii\HW\C#\HW7\newLottery\obj\Debug\newLottery.Form1.resources
+C:\Users\USER\Desktop\iii\HW\C#\HW7\newLottery\obj\Debug\newLottery.Properties.Resources.resources
+C:\Users\USER\Desktop\iii\HW\C#\HW7\newLottery\obj\Debug\newLottery.csproj.GenerateResource.Cache
